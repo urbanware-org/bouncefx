@@ -21,7 +21,7 @@ The *BounceFX* module allows printing a string with a bouncing effect from left 
 
 ## Details
 
-Before the given string is printed, a random one with the same length will be created and printed. With a user-defined delay the characters will flip randomly until all of them are identical with the given one.
+The given string is printed on the left of the current line, moving to the right side column by column until the string reaches the end of the line. The length of the line can either be a given value (e.g. 80 characters) or automatically determined (depending on the terminal size). Then, the string bounces and moves left column by column again.
 
 ### Usage
 

@@ -71,6 +71,8 @@ In order to use *BounceFX*, the *Python* 3.x framework (version 3.2 or higher is
 
 There is no official version for *Python* 2.x, but if you need that for whatever reason, you can try refactoring the syntax from *Python* 3.x to version 2.x using the *[3to2](https://pypi.python.org/pypi/3to2)* tool.
 
+However, there is no guarantee that this works properly or at all.
+
 [Top](#bouncefx)
 
 ## Contact

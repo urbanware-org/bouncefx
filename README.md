@@ -13,9 +13,7 @@
 
 The *BounceFX* module allows printing a string with a bouncing effect from left to right.
 
-:keyboard: If you are interested in a typewriter effect text printer module, you can find it [here](https://github.com/urbanware-org/typefx).
-
-:arrows_clockwise: There also is a character flipping effect text printer module  [here](https://github.com/urbanware-org/flipfx).
+You can find more text printing effects [here](https://github.com/urbanware-org/textfx).
 
 [Top](#bouncefx)
 
